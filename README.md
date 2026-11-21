@@ -8,13 +8,11 @@ Welcome to the official repository for **Elite Innovators**, a dedicated tech co
 
 Consistency is the hardest part of mastering DSA. **Elite Innovators** solves this by assigning curated daily tasks to community members and tracking their progress right here in this repository. 
 
-Whether you are preparing for technical interviews, competitive programming, or strengthening your core computer science fundamentals, this tracker keeps you accountable and moving forward every single day.
-
 ---
 
 ## ⚙️ How It Works
 
-1. **Daily Task Assignment:** Every day, a new set of DSA problems (categorized by topic and difficulty) is assigned to the community.
+1. **Daily Task Assignment:** Every day, a new set of DSA problems is assigned to the community.
 2. **Solve & Code:** Members solve the assigned problems in their preferred programming language (C++, Java, Python, JavaScript, etc.).
 3. **Submit Your Solution:** Members push their solutions to their respective folders or update the daily progress tracker via Pull Requests (PRs).
 4. **Review & Grow:** Peer code reviews, optimal approach discussions, and streak tracking keep everyone motivated.
@@ -22,26 +20,23 @@ Whether you are preparing for technical interviews, competitive programming, or 
 ---
 
 ## 📂 Repository Structure
+All submissions **must** follow the exact `Member -> Date -> Files` hierarchy:
 
 ```text
 Elite-Innovators-DSA-Tracker/
-│
-├── Daily-Tasks/               # Daily problem statements, links, and schedules
-│   ├── Day-01/
-│   ├── Day-02/
-│   └── ...
-│
-├── Members/                   # Individual folders for community members
-│   ├── Member-Name-1/
-│   │   ├── Day-01/
-│   │   └── README.md          # Personal progress & streak log
-│   └── Member-Name-2/
-│
-├── Resources/                 # Curated cheat sheets, patterns, and study guides
-├── CONTRIBUTING.md            # Detailed contribution guidelines
-└── README.md                  # You are here!
-```
-
+├── README.md
+├── Adnan-Ahmad/
+│   ├── 2026-11-21/
+│   │   ├── TwoSum.cpp
+│   │   └── ReverseArray.c
+│   └── 2026-11-22/
+│       └── BinarySearch.cpp
+├── Member-Name-2/
+│   └── 2026-11-21/
+│       └── TwoSum.py
+└── Member-Name-3/
+    └── 2026-11-21/
+        └── TwoSum.java
 ---
 
 ## 🚀 Getting Started
@@ -82,18 +77,6 @@ Go to the original **Elite-Innovators-DSA-Tracker** repository on GitHub and cli
 
 ---
 
-## 📊 Syllabus & Roadmap
-
-Our daily tasks are structured to cover all essential DSA topics progressively:
-
-- [ ] **Phase 1:** Arrays, Strings & Basic Math
-- [ ] **Phase 2:** Recursion, Backtracking & Bit Manipulation
-- [ ] **Phase 3:** Linked Lists, Stacks & Queues
-- [ ] **Phase 4:** Trees, Binary Search Trees & Heaps
-- [ ] **Phase 5:** Graphs & Greedy Algorithms
-- [ ] **Phase 6:** Dynamic Programming & Advanced Data Structures
-
----
 
 ## 🏆 Community Rules & Best Practices
 
@@ -108,8 +91,7 @@ Our daily tasks are structured to cover all essential DSA topics progressively:
 
 Have questions, stuck on a problem, or want to join the daily discussions? Connect with the **Elite Innovators** community:
 
-- **Discord / WhatsApp / Telegram:** [Insert Invite Link Here]
-- **LinkedIn:** [Insert LinkedIn Page Link Here]
+- **WhatsApp:** [https://chat.whatsapp.com/EQ50s2RB90qHMWeyaPlnRK]
 
 ---
 
